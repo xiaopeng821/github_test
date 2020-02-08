@@ -2,7 +2,7 @@ import pandas
 
 original_data = pandas.read_excel('worker-data2.xlsx')
 
-# print(original_data)
+print(original_data)
 
 all_locations = list()
 all_industry = list()
